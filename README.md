@@ -13,3 +13,7 @@ npm install websocket-stream
 
 `node index.js`
 
+## Test it
+
+Install 'Simple WebSocket Client' chrome browser extension
+connect like: ws://<IP>
